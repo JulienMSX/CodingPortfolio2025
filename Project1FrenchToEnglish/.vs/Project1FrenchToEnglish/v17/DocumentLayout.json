@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filmr\\source\\repos\\Project1FrenchToEnglish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C8A049-B1B0-4D3F-B78D-DB17CB2595D7}|Project1FrenchToEnglish\\Project1FrenchToEnglish.vcxproj|C:\\Users\\filmr\\source\\repos\\Project1FrenchToEnglish\\Project1FrenchToEnglish\\FTEProj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77C8A049-B1B0-4D3F-B78D-DB17CB2595D7}|Project1FrenchToEnglish\\Project1FrenchToEnglish.vcxproj|solutionrelative:Project1FrenchToEnglish\\FTEProj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FTEProj.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\Project1FrenchToEnglish\\Project1FrenchToEnglish\\FTEProj.cpp",
+              "RelativeDocumentMoniker": "Project1FrenchToEnglish\\FTEProj.cpp",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\Project1FrenchToEnglish\\Project1FrenchToEnglish\\FTEProj.cpp",
+              "RelativeToolTip": "Project1FrenchToEnglish\\FTEProj.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T01:29:06.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

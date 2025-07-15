@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FinalPracticeCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\FinalPracticeCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FriendClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\FriendClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\Friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filmr\\Downloads\\ptrfunc_largestvalue_row_col_using_pointers(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Season.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\Season.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filmr\\Downloads\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1563B620-AB4F-4980-96FF-5B89F54D315A}|FinalPracticeCPP\\FinalPracticeCPP.vcxproj|solutionrelative:FinalPracticeCPP\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\Downloads\\Date.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Date.cpp",
+              "ToolTip": "C:\\Users\\filmr\\Downloads\\Date.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T22:12:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ptrfunc_largestvalue_row_col_using_pointers(1).cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\Downloads\\ptrfunc_largestvalue_row_col_using_pointers(1).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ptrfunc_largestvalue_row_col_using_pointers(1).cpp",
+              "ToolTip": "C:\\Users\\filmr\\Downloads\\ptrfunc_largestvalue_row_col_using_pointers(1).cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ptrfunc_largestvalue_row_col_using_pointers(1).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T20:54:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Friend.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Friend.cpp",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\Friend.cpp",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Friend.cpp",
+              "RelativeToolTip": "FinalPracticeCPP\\Friend.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T16:19:43.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FriendClass.h",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FriendClass.h",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\FriendClass.h",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FriendClass.h",
+              "RelativeToolTip": "FinalPracticeCPP\\FriendClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T16:17:33.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Season.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Season.cpp",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\Season.cpp",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Season.cpp",
+              "RelativeToolTip": "FinalPracticeCPP\\Season.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T20:40:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weather.h",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Weather.h",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\Weather.h",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Weather.h",
+              "RelativeToolTip": "FinalPracticeCPP\\Weather.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T20:38:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.cpp",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\Sphere.cpp",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.cpp",
+              "RelativeToolTip": "FinalPracticeCPP\\Sphere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T17:51:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.h",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\Sphere.h",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\Sphere.h",
+              "RelativeToolTip": "FinalPracticeCPP\\Sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T17:50:31.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalPracticeCPP.cpp",
+              "DocumentMoniker": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FinalPracticeCPP.cpp",
+              "RelativeDocumentMoniker": "FinalPracticeCPP\\FinalPracticeCPP.cpp",
+              "ToolTip": "C:\\Users\\filmr\\source\\repos\\FinalPracticeCPP\\FinalPracticeCPP\\FinalPracticeCPP.cpp",
+              "RelativeToolTip": "FinalPracticeCPP\\FinalPracticeCPP.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAtwHwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T17:50:11.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
