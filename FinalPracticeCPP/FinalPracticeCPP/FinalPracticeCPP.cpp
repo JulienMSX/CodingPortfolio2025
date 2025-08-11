@@ -17,7 +17,7 @@ void incrementingArray(int[], int);
 //int read_bookmarks();
 void incrementing2DArray(int[][3]);
 void pointers();
-void pisspot(string[][2]);
+
 const int Bk_MK_Len = 50, CAT_LEN = 30, NUM_URLS = 50;
 
 enum Seasons { Summer, Fall, Winter, Spring };
@@ -166,7 +166,7 @@ int main()
 	file.close();*/
 
 
-	pisspot(ary);
+	
 
 	Sphere sphere;
 
@@ -245,57 +245,6 @@ void incrementing2DArray(int ary[][3]) {
 	}
 
 }
-
-
-void pisspot(string _ary[][2]) {
-
-	ofstream outfile("criticalracetheory.txt");
-	for (int i = 0; i < 3; i++) {
-		for (int j = 0; j < 2; j++) {
-			outfile << *(*(_ary + i)+ j) << " ";
-		}
-		outfile << endl;
-
-	}
-	outfile.close();
-
-	
-	const int DICT_SZ = 10, WRD_LEN = 15;
-	
-	
-	
-	char english[DICT_SZ][WRD_LEN];
-	char french[DICT_SZ][WRD_LEN];
-
-	ifstream infile("criticalracetheory.txt");
-	
-	int i = 0;
-	while (i < DICT_SZ && infile >> english[i] >> french[i]) {
-		cout << "EN: " << english[i] << " | FR: " << french[i] << endl;
-		++i;
-	}
-	for (int pass = 0; pass < i - 1; ++pass) {
-		for (int j = 0; j < i - pass - 1; ++j) {
-			if (strcmp(english[j], english[j + 1]) > 0) {
-				// Swap English
-				char temp[WRD_LEN];
-				strcpy_s(temp, english[j]);
-				strcpy_s(english[j], english[j + 1]);
-				strcpy_s(english[j + 1], temp);
-
-				// Swap French to match
-				strcpy_s(temp, french[j]);
-				strcpy_s(french[j], french[j + 1]);
-				strcpy_s(french[j + 1], temp);
-			}
-		}
-	}
-	
-		
-	
-	
-}
-
 
 student structpract() {
 	const int structarysz = 3;
