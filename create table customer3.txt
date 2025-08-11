@@ -1,0 +1,46 @@
+create table customer3
+(customer_num char(3) primary key,
+    customer_name char(35) not null,
+    balance decimal(8,2),
+    credit_limit decimal(8,2),
+    rep_num char(2));
+
+insert into customer3
+select customer_num,customer_name,balance,credit_limit, rep_num
+from customer
+where credit_limit = 7500
+
+alter table customer3
+add Customer_type char(1); 
+
+delete
+from customer3
+where customer_num = '796';
+
+update customer3
+set customer_type = 'R'
+
+
+update customer3
+set customer_type = 'S'
+where customer_num = '334'
+
+
+update customer3
+set customer_type = 'E'
+where customer_num = '386'
+
+alter table customer3
+modify custumer_name char(50);
+describe customer123;
+
+alter table customer3
+rename to customer123
+
+alter table customer123
+rename column custumer_name to customer_name
+
+    
+select * from customer3
+
+
