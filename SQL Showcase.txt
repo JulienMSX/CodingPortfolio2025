@@ -1,0 +1,112 @@
+create table item
+(item_id char(4) primary key,
+    item_name char(20),
+    item_unit char(5),
+    price decimal(8,2),
+    company_id char(3));
+
+create table company
+(company_id char(3) primary key,
+    company_name char(30),
+    company_city char(20))
+insert into item
+values('1','Chex Mix','Pcs',5,'16');
+insert into item
+values('6','Cheeze-It','Pcs',3,'15');
+insert into item
+values('2','BN Biscuit','Pcs',10,'15');
+insert into item
+values('3','Mighty Munch','Pcs',6,'17');
+insert into item
+values('4','Pot Rice','Pcs',9,'15');
+insert into item
+values('5','Jaffa Cakes','Pcs',8,'18');
+insert into item
+values('7','Salt n Shake','Pcs',11,null);
+
+
+insert into company
+values('18','Order All','Boston');
+insert into company
+values('15','Jack Hill Ltd', 'London');
+insert into company
+values('16','Akas Foods','Dehi');
+insert into company
+values('17','Foodies','London');
+insert into company
+values('19','Sip-n-Bite','New York');
+
+
+
+select item_name
+from item
+where item_id = '7';
+
+
+select item_id, item_name, price
+from item
+where price > 8
+
+    
+select company_id, company_name,company_city 
+from company
+where company_id = '16'
+or company_id = '19'
+
+
+select * 
+from company
+where company_id in ('16','19')
+
+
+
+select item_name, price
+from item
+where price in (5,11)
+
+
+select * 
+from item
+where price < 9
+and item_unit = 'Pcs'
+
+
+select count(*) as total_items
+from item
+
+
+select AVG(price) as average
+from item
+
+select distinct company_city
+from company
+
+
+select count(*) as item_sold, company_id
+from item
+group by company_id;
+
+
+select i.item_id, i.item_name, c.company_name, i.price
+from item i, company c
+where i.company_id = c.company_id
+and price > 6 
+and price < 11
+
+
+select item_id, item_name, price
+from item
+inner join company on item.company_id = company.company_id
+where company_id = '18'
+
+
+
+
+update item
+set price = price + (price * .1)
+where item_id = '2'
+
+
+delete
+from company
+where company_id = '17'
