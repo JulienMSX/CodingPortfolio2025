@@ -1,4 +1,0 @@
-﻿  FinalPracticeCPP.cpp
-C:\Users\filmr\source\repos\FinalPracticeCPP\FinalPracticeCPP\FinalPracticeCPP.cpp(392,9): warning C4101: 'ary': unreferenced local variable
-C:\Users\filmr\source\repos\FinalPracticeCPP\FinalPracticeCPP\FinalPracticeCPP.cpp(401,13): warning C4101: 'ip2': unreferenced local variable
-  FinalPracticeCPP.vcxproj -> C:\Users\filmr\source\repos\FinalPracticeCPP\x64\Debug\FinalPracticeCPP.exe
